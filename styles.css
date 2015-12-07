@@ -1,0 +1,32 @@
+body {
+	background-image: url(backgrounds.png);
+}
+
+header {
+	background: white;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
+	padding: 10px;
+}
+
+nav {
+	background: #686868;
+	
+	
+	
+}
+
+.menu a {
+	color: white;
+	padding: 5px;
+	background: #686868;
+	display: inline-block;
+
+}
+
+footer {
+	background: white;
+	border: solid black 1px;
+	padding-left: 10px;
+}
+
